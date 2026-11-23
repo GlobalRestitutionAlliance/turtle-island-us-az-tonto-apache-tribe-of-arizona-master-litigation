@@ -1,0 +1,17 @@
+{
+  "url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=AZ+TONTO+APACHE+TRIBE+OF+ARIZONA",
+  "final_url": "https://www.federalregister.gov/documents/search?conditions%5Bsearch_type_id%5D=3&conditions%5Bterm%5D=AZ+TONTO+APACHE+TRIBE+OF+ARIZONA",
+  "title": "Federal Register - AZ TONTO APACHE TRIBE OF ARIZONA",
+  "fetched_at": "2026-11-23T18:16:58.609911Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 306943,
+  "sha256": "642c8220dc6fd5d3f644a69bbf61150d3bf80a36d48ce84d7c4f575d8eb80edb",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
